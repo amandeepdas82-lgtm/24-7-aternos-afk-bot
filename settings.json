@@ -8,7 +8,7 @@
   "server": {
     "ip": "herobrine3619.aternos.me",
     "port": 32347,
-    "version": "1.20.1",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "An afk Bot!",
+        "Always Obey Herobrine Without Question"
       ]
     },
     "chat-log": true,
